@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OwinWebApi.Swashbuckle", "OwinWebApi.Swashbuckle\OwinWebApi.Swashbuckle.csproj", "{A6DA20AA-6AD3-4EFC-B7FF-CD85592056E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OwinWebApi.Swashbuckle.Tests", "OwinWebApi.Swashbuckle.Tests\OwinWebApi.Swashbuckle.Tests.csproj", "{7D7354EA-B2F4-497D-8E90-873A8C0F7314}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6DA20AA-6AD3-4EFC-B7FF-CD85592056E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6DA20AA-6AD3-4EFC-B7FF-CD85592056E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6DA20AA-6AD3-4EFC-B7FF-CD85592056E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6DA20AA-6AD3-4EFC-B7FF-CD85592056E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D7354EA-B2F4-497D-8E90-873A8C0F7314}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D7354EA-B2F4-497D-8E90-873A8C0F7314}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D7354EA-B2F4-497D-8E90-873A8C0F7314}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D7354EA-B2F4-497D-8E90-873A8C0F7314}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53B9C5E3-82F8-4E28-A71D-F703F7310C1D}
+	EndGlobalSection
+EndGlobal
